@@ -1,0 +1,29 @@
+﻿h1 {
+    text-align:center;
+    font-size:2.5em
+}
+
+h2 {
+    text-align:center;
+    font-size:0.75em;
+}
+
+td {
+    text-align:center;
+    font-weight:bold;
+    cell-spacing:2em; 
+    
+}
+
+th {
+    font-weight:bold;
+    font-size:1.5em;
+    
+span {
+    background-color:green;
+}
+
+#header {
+    background-color: #95d0b3;
+
+}
